@@ -7,8 +7,8 @@ super("Inicio");
 
 preload(){
 
-this.load.image("fondoInicio","../img/fondoInicio.jpg");
-this.load.image("boton","../img/boton.jpg");
+this.load.image("fondoInicio","../img/broche_de_oro.png");
+this.load.image("boton","../img/start.png");
 
 }
 
